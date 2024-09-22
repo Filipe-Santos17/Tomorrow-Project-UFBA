@@ -1,0 +1,52 @@
+{
+  "arenas":[
+    {
+      "name":"Arena Espacial",
+      "imgUrl":"bg-space.webp"
+    },
+    {
+      "name":"Arena Asiática",
+      "imgUrl":"bg-asia.webp"
+    },
+    {
+      "name":"Arena da Bruxa",
+      "imgUrl":"bg-bruxaria.webp"
+    },
+    {
+      "name":"Arena Campo de Lava",
+      "imgUrl":"bg-campo-lava.webp"
+    },
+    {
+      "name":"Arena da Caverna",
+      "imgUrl":"bg-caverna.webp"
+    },
+    {
+      "name":"Arena Deserto",
+      "imgUrl":"bg-desert.webp"
+    },
+    {
+      "name":"Arena da Floresta Cobra",
+      "imgUrl":"bg-floresta-cobra.webp"
+    },
+    {
+      "name":"Arena Floresta Noturna",
+      "imgUrl":"bg-floresta-noturna.webp"
+    },
+    {
+      "name":"Arena Jardim Calmo",
+      "imgUrl":"bg-jardim-calmo.webp"
+    },
+    {
+      "name":"Arena Navio Almadiçoado",
+      "imgUrl":"bg-navio-almadiçoado.webp"
+    },
+    {
+      "name":"Arena Neve",
+      "imgUrl":"bg-neve.webp"
+    },
+    {
+      "name":"Arena da Primavera",
+      "imgUrl":"bg-primavera.webp"
+    }
+  ]
+}

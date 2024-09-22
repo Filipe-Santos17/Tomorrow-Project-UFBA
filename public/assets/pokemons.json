@@ -1,0 +1,671 @@
+{
+  "pokedex": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "dmge": 49,
+      "dfns": 49,
+      "speed": 45,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Vine Whip",
+          "damage": 45,
+          "type": "Physical"
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": 55,
+          "type": "Grass"
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": 90,
+          "type": "Poison"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "dmge": 52,
+      "dfns": 43,
+      "speed": 65,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Slash",
+          "damage": 70,
+          "type": "Physical"
+        },
+        {
+          "name": "Ember",
+          "damage": 40,
+          "type": "Fire"
+        },
+        {
+          "name": "Flamethrower",
+          "damage": 90,
+          "type": "Fire"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "dmge": 48,
+      "dfns": 65,
+      "speed": 43,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Bite",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Water Gun",
+          "damage": 40,
+          "type": "Water"
+        },
+        {
+          "name": "Hydro Pump",
+          "damage": 110,
+          "type": "Water"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "dmge": 55,
+      "dfns": 40,
+      "speed": 90,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Iron Tail",
+          "damage": 100,
+          "type": "Physical"
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": 40,
+          "type": "Electric"
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": 90,
+          "type": "Electric"
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "dmge": 45,
+      "dfns": 20,
+      "speed": 20,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Body Slam",
+          "damage": 85,
+          "type": "Physical"
+        },
+        {
+          "name": "Disarming Voice",
+          "damage": 40,
+          "type": "Fairy"
+        },
+        {
+          "name": "Dazzling Gleam",
+          "damage": 80,
+          "type": "Fairy"
+        }
+      ]
+    },
+    {
+      "name": "Pidgey",
+      "type": "Normal/Flying",
+      "dmge": 45,
+      "dfns": 40,
+      "speed": 56,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Wing Attack",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Gust",
+          "damage": 40,
+          "type": "Flying"
+        },
+        {
+          "name": "Air Slash",
+          "damage": 75,
+          "type": "Flying"
+        }
+      ]
+    },    
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "dmge": 80,
+      "dfns": 50,
+      "speed": 35,
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "damage": 50,
+          "type": "Physical"
+        },
+        {
+          "name": "Low Kick",
+          "damage": 50,
+          "type": "Physical"
+        },
+        {
+          "name": "Brick Break",
+          "damage": 75,
+          "type": "Fighting"
+        },
+        {
+          "name": "Dynamic Punch",
+          "damage": 80,
+          "type": "Fighting"
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "dmge": 80,
+      "dfns": 100,
+      "speed": 20,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Rock Throw",
+          "damage": 50,
+          "type": "Physical"
+        },
+        {
+          "name": "Magnitude",
+          "damage": 30,
+          "type": "Ground"
+        },
+        {
+          "name": "Rock Slide",
+          "damage": 75,
+          "type": "Rock"
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "dmge": 20,
+      "dfns": 15,
+      "speed": 90,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Headbutt",
+          "damage": 70,
+          "type": "Physical"
+        },
+        {
+          "name": "Confusion",
+          "damage": 50,
+          "type": "Psychic"
+        },
+        {
+          "name": "Psybeam",
+          "damage": 65,
+          "type": "Psychic"
+        }
+      ]
+    },    
+    {
+      "name": "Oddish",
+      "type": "Grass/Poison",
+      "dmge": 50,
+      "dfns": 55,
+      "speed": 30,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Body Slam",
+          "damage": 85,
+          "type": "Physical"
+        },
+        {
+          "name": "Absorb",
+          "damage": 20,
+          "type": "Grass"
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": 90,
+          "type": "Poison"
+        }
+      ]
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "dmge": 55,
+      "dfns": 50,
+      "speed": 55,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Take Down",
+          "damage": 90,
+          "type": "Physical"
+        },
+        {
+          "name": "Swift",
+          "damage": 60,
+          "type": "Normal"
+        },
+        {
+          "name": "Shadow Ball",
+          "damage": 80,
+          "type": "Ghost"
+        }
+      ]
+    },
+    {
+      "name": "Magikarp",
+      "type": "Water",
+      "dmge": 10,
+      "dfns": 55,
+      "speed": 80,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Flail",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Splash",
+          "damage": 30,
+          "type": "Normal"
+        },
+        {
+          "name": "Bounce",
+          "damage": 85,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "name": "Growlithe",
+      "type": "Fire",
+      "dmge": 70,
+      "dfns": 45,
+      "speed": 60,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Take Down",
+          "damage": 90,
+          "type": "Physical"
+        },
+        {
+          "name": "Ember",
+          "damage": 40,
+          "type": "Fire"
+        },
+        {
+          "name": "Flamethrower",
+          "damage": 90,
+          "type": "Fire"
+        }
+      ]
+    },    
+    {
+      "name": "Pidgeotto",
+      "type": "Normal/Flying",
+      "dmge": 60,
+      "dfns": 55,
+      "speed": 71,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Wing Attack",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Gust",
+          "damage": 40,
+          "type": "Flying"
+        },
+        {
+          "name": "Air Slash",
+          "damage": 75,
+          "type": "Flying"
+        }
+      ]
+    },
+    {
+      "name": "Nidoran",
+      "type": "Poison",
+      "dmge": 47,
+      "dfns": 52,
+      "speed": 41,
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": 35,
+          "type": "Physical"
+        },
+        {
+          "name": "Horn Attack",
+          "damage": 65,
+          "type": "Physical"
+        },
+        {
+          "name": "Poison Sting",
+          "damage": 15,
+          "type": "Poison"
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": 90,
+          "type": "Poison"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "dmge": 41,
+      "dfns": 40,
+      "speed": 65,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Feint Attack",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Ember",
+          "damage": 40,
+          "type": "Fire"
+        },
+        {
+          "name": "Flamethrower",
+          "damage": 90,
+          "type": "Fire"
+        }
+      ]
+    },
+    {
+      "name": "Caterpie",
+      "type": "Bug",
+      "dmge": 30,
+      "dfns": 35,
+      "speed": 45,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Bug Bite",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "String Shot",
+          "damage": 0,
+          "type": "Bug"
+        },
+        {
+          "name": "Electroweb",
+          "damage": 55,
+          "type": "Electric"
+        }
+      ]
+    },    
+    {
+      "name": "Sandshrew",
+      "type": "Ground",
+      "dmge": 75,
+      "dfns": 85,
+      "speed": 40,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Slash",
+          "damage": 70,
+          "type": "Physical"
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": 20,
+          "type": "Ground"
+        },
+        {
+          "name": "Earthquake",
+          "damage": 80,
+          "type": "Ground"
+        }
+      ]
+    },
+    {
+      "name": "Miltank",
+      "type": "Normal",
+      "dmge": 80,
+      "dfns": 105,
+      "speed": 100,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Body Slam",
+          "damage": 85,
+          "type": "Physical"
+        },
+        {
+          "name": "Stomp",
+          "damage": 65,
+          "type": "Normal"
+        },
+        {
+          "name": "Milk Drink",
+          "damage": 70,
+          "type": "Normal"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "dmge": 65,
+      "dfns": 60,
+      "speed": 110,
+      "attacks": [
+        {
+          "name": "Shadow Punch",
+          "damage": 60,
+          "type": "Physical"
+        },
+        {
+          "name": "Lick",
+          "damage": 30,
+          "type": "Physical"
+        },
+        {
+          "name": "Shadow Ball",
+          "damage": 80,
+          "type": "Ghost"
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": 90,
+          "type": "Poison"
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon/Flying",
+      "dmge": 134,
+      "dfns": 95,
+      "speed": 80,
+      "attacks": [
+        {
+          "name": "Dragon Claw",
+          "damage": 80,
+          "type": "Physical"
+        },
+        {
+          "name": "Wing Attack",
+          "damage": 80,
+          "type": "Physical"
+        },
+        {
+          "name": "Dragon Breath",
+          "damage": 130,
+          "type": "Dragon"
+        },
+        {
+          "name": "Hurricane",
+          "damage": 110,
+          "type": "Flying"
+        }
+      ]
+    },    
+    {
+      "name": "Alakazam",
+      "type": "Psychic",
+      "dmge": 50,
+      "dfns": 45,
+      "speed": 120,
+      "attacks": [
+        {
+          "name": "Psycho Cut",
+          "damage": 70,
+          "type": "Physical"
+        },
+        {
+          "name": "Zen Headbutt",
+          "damage": 80,
+          "type": "Physical"
+        },
+        {
+          "name": "Psychic",
+          "damage": 90,
+          "type": "Psychic"
+        },
+        {
+          "name": "Psybeam",
+          "damage": 65,
+          "type": "Psychic"
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "dmge": 110,
+      "dfns": 65,
+      "speed": 30,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 40,
+          "type": "Physical"
+        },
+        {
+          "name": "Body Slam",
+          "damage": 85,
+          "type": "Physical"
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": 150,
+          "type": "Normal"
+        },
+        {
+          "name": "Earthquake",
+          "damage": 80,
+          "type": "Ground"
+        }
+      ]
+    }    
+  ]
+}
